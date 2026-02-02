@@ -14,8 +14,25 @@
     "backup",
     "cleaner",
     "wpress",
-    "all-in-one-wp-migration"
+    "all-in-one-wp-migration",
+    "ai1wm",
+    "disk-space",
+    "cli"
   ],
-  "author": "",
-  "license": "MIT"
+  "author": "Bartosz Szulc (https://github.com/BartoSzulc)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BartoSzulc/wpress-cleaner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BartoSzulc/wpress-cleaner/issues"
+  },
+  "homepage": "https://github.com/BartoSzulc/wpress-cleaner#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
 }
