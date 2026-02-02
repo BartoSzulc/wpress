@@ -2,7 +2,7 @@
 
 Interactive CLI tool to find and delete All-in-One WP Migration backup files (`.wpress`). Similar to [npkill](https://github.com/voidcosmos/npkill), but for WordPress backups.
 
-![wpress-cleaner screenshot](https://raw.githubusercontent.com/BartoSzulc/wpress-cleaner/screenshot.png)
+![wpress-cleaner screenshot](https://raw.githubusercontent.com/BartoSzulc/wpress-cleaner/refs/heads/main/screenshot.png)
 
 ## Features
 
