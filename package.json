@@ -1,0 +1,21 @@
+{
+  "name": "wpress-cleaner",
+  "version": "1.0.0",
+  "description": "Interactive CLI tool to find and delete All-in-One WP Migration backup files (.wpress)",
+  "main": "index.js",
+  "bin": {
+    "wpress-cleaner": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "wordpress",
+    "backup",
+    "cleaner",
+    "wpress",
+    "all-in-one-wp-migration"
+  ],
+  "author": "",
+  "license": "MIT"
+}
